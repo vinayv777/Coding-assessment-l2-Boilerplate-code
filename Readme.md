@@ -40,4 +40,4 @@
 ## Important links to resources:
 
 - https://www.figma.com/file/xG21MiqSOJcUDtJL085wSK/Untitled?type=design&node-id=0%3A1&mode=design&t=2hrQyQz1CrATZn75-1
-- [APl](https://mocki.io/v1/0934df88-6bf7-41fd-9e59-4fb7b8758093) - https://jsonkeeper.com/b/DQB1
+- [APl](https://mocki.io/v1/0934df88-6bf7-41fd-9e59-4fb7b8758093) - https://mocki.io/v1/0934df88-6bf7-41fd-9e59-4fb7b8758093
