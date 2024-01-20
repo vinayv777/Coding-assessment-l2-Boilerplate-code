@@ -64,4 +64,4 @@ You can earn bonus points by hosting your project on a free hosting platform suc
 - Ensure that your project works as intended and is free from errors.
 - Make sure to include clear instructions on how to run your project (if necessary).
 
-Feel free to reach out to invigilator at [9651223950]() if you have any questions. Good luck! We look forward to reviewing your submission.
+Feel free to reach out to invigilator at `rishabh@marmeto.com` if you have any questions. Good luck! We look forward to reviewing your submission.
