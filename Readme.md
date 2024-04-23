@@ -53,7 +53,7 @@ Take a moment to review the project structure:
 
 1. Create a ZIP file of your entire project.
 2. Upload the ZIP file to your Google Drive.
-3. Share the public link to the ZIP file via email.
+3. Please send the public link to the ZIP file in the same email thread where you received the task details.
 
 ## Hosting (Bonus)
 You can earn bonus points by hosting your project on a free hosting platform such as GitHub Pages or Netlify.
@@ -64,4 +64,4 @@ You can earn bonus points by hosting your project on a free hosting platform suc
 - Ensure that your project works as intended and is free from errors.
 - Make sure to include clear instructions on how to run your project (if necessary).
 
-Feel free to reach out to invigilator at `rishabh@marmeto.com` if you have any questions. Good luck! We look forward to reviewing your submission.
+Good luck! We look forward to reviewing your submission.
