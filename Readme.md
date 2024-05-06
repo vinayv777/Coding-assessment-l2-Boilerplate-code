@@ -40,23 +40,13 @@ Take a moment to review the project structure:
 
 
 ---
-## Submission Guidelines
+## Updated Submission Guidelines
 
-### Option 1: GitHub Repository
+1. Fill out the form provided at [this link](https://forms.gle/MxuzmExHGXBh3hVk8).
+2. Provide the GitHub repository link of your project in the designated field.
+3. Share the hosted link of your project in the appropriate field.
+4. Optionally, upload a ZIP file containing your project files.
 
-1. Create a new public repository on GitHub.
-2. Upload your project files (index.html, style.css, script.js) to the repository.
-3. Write a brief description of your project in the README.md file.
-4. Share the repository URL with us.
-
-### Option 2: ZIP File on Google Drive
-
-1. Create a ZIP file of your entire project.
-2. Upload the ZIP file to your Google Drive.
-3. Please send the public link to the ZIP file in the same email thread where you received the task details.
-
-## Hosting (Bonus)
-You can earn bonus points by hosting your project on a free hosting platform such as GitHub Pages or Netlify.
 
 ## Important Notes
 
